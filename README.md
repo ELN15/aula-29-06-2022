@@ -8,7 +8,7 @@
 5. Configurando a máquina e criando nossa conta  
 6. Fluxos do git e aprendendo comandos - Fork, clone, criando repositório e mais  
 
-### [Slides do conteúdo](https://docs.google.com/presentation/d/1EgIsHW3uNZlD-Zlx1sSZ4llcK9EN8reL/edit?usp=sharing&ouid=103451384479324478678&rtpof=true&sd=true) :sparkles:
+### [Slides do conteúdo](https://drive.google.com/file/d/1BUfaw7YbDMSj4yG2U6Pho_tLaxJLAoKV/view?usp=sharing) :sparkles:
 
 ### Atividades em sala
 
