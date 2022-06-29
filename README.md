@@ -10,7 +10,7 @@
 
 ### [Slides do conteúdo](https://drive.google.com/file/d/1BUfaw7YbDMSj4yG2U6Pho_tLaxJLAoKV/view?usp=sharing) :sparkles:
 
-### Atividades em sala
+### Atividades para casa
 
 1. Criando a pasta do bootcamp
 2. Subindo os exercicios para o github - Implementando pelo terminal o Fluxo do git (Git flow) - ( git status, git add, git commit e git push)
@@ -18,7 +18,7 @@
 4.  Atualizando o repositório seu repositório forkado
 5.  Extra! [Abrir uma Pull request para para o repositório original](https://github.com/grupy-sp/encontros/wiki/Como-sincronizar-o-seu-Fork-com-o-repo-principal)
 
-## Atividade para casa :rocket:
+## Atividade em sala :rocket:
  Seu objetivo teórico será escolher um tema dentre os temas extras de conceitos básicos, pesquisar e fazer um arquivo de README.md explicando. Já seu objetivo prático é mandar todo esse conteúdo novo para o Github, utilizando do fluxo de git que aprendemos em sala para isso!
  
 *Passo a passo
